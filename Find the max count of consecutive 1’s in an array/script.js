@@ -1,3 +1,4 @@
+
 let arr = [4, 1, 1, 6, 4, 1, 7, 1, 1, 1];
 let maxCount = 0; // To store max number of consecutive 1s streak
 let count = 0; // count the current streak

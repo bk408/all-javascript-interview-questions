@@ -23,3 +23,5 @@ function findLongestWord(arr) {
 }
 
 console.log(findLongestWord(arr));
+
+
